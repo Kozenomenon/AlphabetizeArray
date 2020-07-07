@@ -1,6 +1,10 @@
 # AlphabetizeArray
  Assets for working in the Ark Dev Kit to make mods. Example function library that will allow you to alphabetically sort arrays. Includes a test singleton actor you can use in PIE to see how it works.
 
+## License
+Creative Commons Zero v1.0 Universal
+_meaning do what you like with this and I am not responsible in anyway... :D_
+
 ## Contents
 - __Alphabetize_Struct
   - structure used by the sort logic, function returns array of these
